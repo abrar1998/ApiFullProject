@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O7VYnggwUBb4tugA6ELfarOi2MdkoHcJr/Doysn90xEDExh43YRcuyPE88tcJ73movmdczvCsQIFIfnot8KXzw==",
+  "dgSpecHash": "qWgxL7+lQtcivRdaOL5tKOlLM8a4cQQestKm7pKjmPMRY6Wn4dfvLLd1gyedyHug6NcwUged7NFREkwPXK1V0g==",
   "success": true,
-  "projectFilePath": "D:\\C-Sharp\\.NET7\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj",
+  "projectFilePath": "D:\\GitProject\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darab\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\darab\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

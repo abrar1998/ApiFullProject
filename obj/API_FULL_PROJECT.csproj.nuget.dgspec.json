@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-Sharp\\.NET7\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj": {}
+    "D:\\GitProject\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj": {}
   },
   "projects": {
-    "D:\\C-Sharp\\.NET7\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj": {
+    "D:\\GitProject\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-Sharp\\.NET7\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj",
+        "projectUniqueName": "D:\\GitProject\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj",
         "projectName": "API_FULL_PROJECT",
-        "projectPath": "D:\\C-Sharp\\.NET7\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj",
+        "projectPath": "D:\\GitProject\\API_FULL_PROJECT\\API_FULL_PROJECT.csproj",
         "packagesPath": "C:\\Users\\darab\\.nuget\\packages\\",
-        "outputPath": "D:\\C-Sharp\\.NET7\\API_FULL_PROJECT\\obj\\",
+        "outputPath": "D:\\GitProject\\API_FULL_PROJECT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darab\\AppData\\Roaming\\NuGet\\NuGet.Config",
